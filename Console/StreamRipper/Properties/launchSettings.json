@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StreamRipper": {
+      "commandName": "Project",
+      "commandLineArgs": "Test \"http://admin@10.0.0.141:99/videostream.asf?user=admin&pwd=&resolution=64\""
+    }
+  }
+}
